@@ -1,4 +1,4 @@
-# PythonAI Brain
+# PythonAIBrain
 Make your first offline AI Assistant in python. No complex setup, No advance coding. No API key required. Just install configure and run!
 ## Installation
 Install pythonaibrain package.
