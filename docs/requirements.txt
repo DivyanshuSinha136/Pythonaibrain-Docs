@@ -1,4 +1,4 @@
 sphinx
 sphinx-rtd-theme
 myst-parser
-pythonaibrain
+sphinx-autodoc-typehints
