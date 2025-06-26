@@ -1,2 +1,2 @@
 streamlit
-pythonaibrain
+pythonaibrain==1.0.8
