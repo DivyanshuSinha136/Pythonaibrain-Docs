@@ -1,8 +1,8 @@
 # docs/conf.py
 project = "pythonaibrain"
 author = "Divyanshu Sinha"
-version = "1.1.8"
-release = "1.1.8"
+version = "1.0.8"
+release = "1.0.8"
 
 # Enable Sphinx extensions
 extensions = [
